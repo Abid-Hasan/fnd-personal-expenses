@@ -2,4 +2,4 @@
 
 ### Expense tracking application built with flutter
 
-### Published file: https://abid.gq/flutter/personal-expenses.apk
+### Published file: https://abid-hasan.github.io/flutter/personal-expenses.apk
